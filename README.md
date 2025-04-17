@@ -1,6 +1,4 @@
-# Hey there! 👋 I'm Dani 
-🎯 **What I'm Learning:** Git, Python, Cybersecurity  
-🚀 **Current Projects:** Building a rocket telemetry system  
-🎵 **Hobbies:** Writing music, F1 stats, sports
+# Hey there! ✌🏼 I'm Dani 
+just a bunch this & yap stuff that I've learned during my studies
 
 
